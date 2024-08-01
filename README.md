@@ -1,7 +1,7 @@
 # movie-proxy
 
 Simple reverse proxy to bypass CORS, used by [movie-web](https://coolbinge.netlify.app).
-Read the docs at https://docs.movie-web.app/proxy/introduction
+Read the docs at 
 
 ---
 
